@@ -6,10 +6,8 @@
 
 
 ## Пример обложки с превью
-!([](https://github.com/tttdddnet/cover_tg_bot/blob/main/tgbot1.png))
+![Пример обложки с превью](https://github.com/tttdddnet/cover_tg_bot/blob/main/tgbot1.png)
 
+## Пример обложки с картинкой-заглушкой
+![Пример обложки с картинкой-заглушкой](https://github.com/tttdddnet/cover_tg_bot/blob/main/tgbot2.png)
 
-
-
-## Пример обложки без превью, с картинкой-заглушкой
-!([](https://github.com/tttdddnet/cover_tg_bot/blob/main/tgbot2.png))

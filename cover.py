@@ -76,13 +76,6 @@ def enhance_image(link):
     image.save("enhance_image.jpg", subsampling=0, quality=100)
     return image
 
-def input_text():
-    text = input("Текст: ")
-    return text
-
-def input_font_size():
-    font_size = int(input("Размер шрифта (25-30): "))
-    return font_size
 
 def draw_text_and_save_image(text, link):
     font_size = 60
